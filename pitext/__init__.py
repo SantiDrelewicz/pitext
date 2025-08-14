@@ -1,3 +1,3 @@
-from pitext.text import process
+from pitext import process
 
 __all__ = ["process"]
