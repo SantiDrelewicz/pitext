@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: pitext
+Version: 0.1.0
+Summary: probando pitext
+Author: Santi Drelewicz
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+
+# pitext
+prueba de texrec

@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+pitext/__init__.py
+pitext/text.py
+pitext/token.py
+pitext.egg-info/PKG-INFO
+pitext.egg-info/SOURCES.txt
+pitext.egg-info/dependency_links.txt
+pitext.egg-info/requires.txt
+pitext.egg-info/top_level.txt
