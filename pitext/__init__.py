@@ -1,3 +1,3 @@
-from pitext import process
+from pitext.utils import process, tokenize
 
-__all__ = ["process"]
+__all__ = "process", "tokenize"
