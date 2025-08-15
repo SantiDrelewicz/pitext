@@ -6,6 +6,7 @@ pitext.egg-info/SOURCES.txt
 pitext.egg-info/dependency_links.txt
 pitext.egg-info/requires.txt
 pitext.egg-info/top_level.txt
+pitext/engine/model.py
 pitext/utils/__init__.py
 pitext/utils/text.py
 pitext/utils/token.py
